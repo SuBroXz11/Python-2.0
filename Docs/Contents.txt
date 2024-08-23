@@ -1,0 +1,1 @@
+Day 1: decimal format, while loop infinity, random module, ascii art site
