@@ -2,7 +2,7 @@ print('Welcome to the Tip Calculator.')
 print('---------------------------')
 
 # Ask the user for the total bill
-total_bill = float(input('What was the total bill? '))
+total_bill = float(input('What was the total bill? $'))
 
 # Ask the user how many people to split the bill
 bill_split = int(input('How many people to split the bill? '))
